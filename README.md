@@ -1,3 +1,5 @@
+# You must disable windows defender or zour antivirus software if you want to use this tool
+
 MerlinRAT: A Comprehensive Command and Control Framework
 
 MerlinRAT is a highly advanced Command and Control (C2) framework designed for the remote control and management of distributed networks and target systems. With its versatile features and advanced capabilities, MerlinRAT is a powerful and complex solution for cyberattacks and security analysis. Below is a comprehensive description of this framework.
