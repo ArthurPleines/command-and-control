@@ -1,4 +1,4 @@
-# You must disable windows defender or zour antivirus software if you want to use this tool
+# You must disable windows defender or your antivirus software if you want to use this tool
 
 MerlinRAT: A Comprehensive Command and Control Framework
 
